@@ -26,6 +26,11 @@ nav a {
     padding-right: 10px;
 }
 
+nav a img {
+    border-radius: 50%;
+    width: 60px;
+}
+
 main {
     background-color:white;
 }
